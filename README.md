@@ -1,3 +1,5 @@
+# 💫 About Me:
+Hi 🙋🏻‍♀️ , My name is Suhani Garg.<br>I am pursuing my bachelor's in BCA at GLA University, Mathura 👩🏻‍🎓🏫 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_suhani.garg_) 
