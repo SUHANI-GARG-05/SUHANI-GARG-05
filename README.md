@@ -1,17 +1,65 @@
-# 💫 About Me:
-Hi 🙋🏻‍♀️ , My name is Suhani Garg.<br>I am pursuing my Bachelor’s in Computer Applications at GLA University, Mathura👩🏻‍🎓🏫 
+# Hi, I'm Suhani Garg! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_suhani.garg_) 
+🎓 **Final-Year BCA Student at GLA University, Mathura | 2027 Graduate**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUHANI-GARG-05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SUHANI-GARG-05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUHANI-GARG-05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📊 **Aspiring Data Analyst** passionate about exploring data, identifying patterns, and transforming raw information into meaningful insights.
+
+🌱 Currently strengthening my skills in SQL, Python, Microsoft Excel, and Power BI through hands-on projects and continuous learning.
+
+💡 I enjoy solving problems, exploring new technologies, and building practical projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SUHANI-GARG-05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 Currently Focusing On
+- SQL and database management
+- Data cleaning and Exploratory Data Analysis (EDA)
+- Data visualization and dashboard development using Power BI
+- Python for data analysis
+
+### 💻 Tech Stack
+
+**Programming & Web Development**
+
+Python • SQL • HTML5 • CSS3 • JavaScript
+
+**Data Analytics & Libraries**
+
+Microsoft Excel • Power BI • Pandas • NumPy • Matplotlib • Scikit-learn
+
+**Tools & Platforms**
+
+Git • GitHub • VS Code • Jupyter Notebook
+
+---
+
+### 🚀 Featured Projects
+
+**1. House Price Prediction**
+- Developed a machine learning model to predict house prices using Python and Scikit-learn.
+- Worked with data preprocessing, exploratory analysis, and Linear Regression.
+
+**2. PolyVo**
+- Developed a chatbot web application using React, Node.js, Express, and MongoDB.
+- Implemented authentication, REST APIs, and responsive UI features.
+
+**3. Matrix Operations Tool**
+- Built a Python-based application to perform various matrix operations.
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/suhani-garg-aa4438375)
+- 📧 Email: suhanisg2005@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUHANI-GARG-05&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUHANI-GARG-05&layout=compact&theme=transparent)
+
+---
+
+✨ *Learning, building, improving.*
