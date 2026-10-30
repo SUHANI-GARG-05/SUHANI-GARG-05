@@ -49,16 +49,8 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/suhani-garg-aa4438375)
+- 💼 LinkedIn: [Suhani Garg](https://www.linkedin.com/in/suhani-garg-aa4438375/)
 - 📧 Email: suhanisg2005@gmail.com
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUHANI-GARG-05&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUHANI-GARG-05&layout=compact&theme=transparent)
 
 ---
 
